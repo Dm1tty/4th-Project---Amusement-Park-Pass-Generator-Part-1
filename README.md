@@ -20,3 +20,5 @@
     - Add a feature to the swipe method(s), so that when an entrant swipes on their birthday, they receive a personalized message, if their birthday is known.
     - Add a feature to the swipe method(s), so that a “ding” sound is played when an entrant is granted access and a “buzz” sound is played when an entrant is denied access.
     - Add a feature to disallow a guest from swiping into the same ride twice in row, at the same check (as in, prevent swiping twice quickly to sneak in a second person). Rejecting an entrants second swipe should be done gracefully with an explanation message.
+**Received Grade:**
+  - Exceeds Expectations
